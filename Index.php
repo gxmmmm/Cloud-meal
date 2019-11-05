@@ -8,7 +8,7 @@
 <body>
 	<table width="100%" bgcolor="#F3CA81" align="center">
 	<tr>
-		<td height="30"><marquee>Information Technology KMITL</maruqee>
+		<td height="30"><marquee>Information Technology KMITL</marquee>
 		</td>
 	</tr>
 	<tr>
