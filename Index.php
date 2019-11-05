@@ -12,7 +12,8 @@
 		</td>
 	</tr>
 	<tr>
-		<td height="150" align="center" bgcolor="#E9DDC0">header
+		<td height="150" align="center" bgcolor="#E9DDC0">
+        <? include("header.php"); ?>
 		</td>
 	</tr>
 	<tr>
@@ -20,16 +21,30 @@
   							<li><a href="">Home</a></li>
   							<li><a href="">News</a></li>
   							<li><a href="">Contact</a></li>
-  							<li><a href="">About</a></li>
+  							<li class="active"><a href="">login</a></li>
 						</ul>
 		</td>
 	</tr>
 	<tr>
 		<td height="500" align="center" bgcolor="#E9DDC0">
-		<table width="100%" border="1" height="100%">
+		<table width="100%" border="1" height="100%" class="show">
   				<tr>
     				<td width="25%"></td>
-    				<td></td>
+    				<td width="25%"></td>
+                    <td width="25%"></td>
+                    <td width="25%"></td>
+  				</tr>
+                <tr>
+    				<td width="25%"></td>
+    				<td width="25%"></td>
+                    <td width="25%"></td>
+                    <td width="25%"></td>
+  				</tr>
+                <tr>
+    				<td width="25%"></td>
+    				<td width="25%"></td>
+                    <td width="25%"></td>
+                    <td width="25%"></td>
   				</tr>
 			</table>
 		</td>
