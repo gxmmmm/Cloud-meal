@@ -8,12 +8,17 @@
 <body>
 	<table width="90%" bgcolor="#F3CA81" align="center">
 	<tr>
+    	<td height="100" align="center">
+    	<? include("header.php"); ?>
+        </td>
+    </tr>
+    <tr>
 		<td height="30"><marquee>Information Technology KMITL</marquee>
 		</td>
 	</tr>
 	<tr>
 		<td height="150" align="center" bgcolor="#E9DDC0">
-        <? include("header.php"); ?>
+        
 		</td>
 	</tr>
 	<tr>
@@ -29,13 +34,13 @@
 		<td height="500" align="center" bgcolor="#E9DDC0">
 		<table width="100%" border="1" height="100%" class="show">
   				<tr>
-    				<td width="25%"></td>
+    				<td width="25%" height="139"></td>
     				<td width="25%"></td>
                     <td width="25%"></td>
                     <td width="25%"></td>
   				</tr>
                 <tr>
-    				<td width="25%"></td>
+    				<td width="25%" height="176"></td>
     				<td width="25%"></td>
                     <td width="25%"></td>
                     <td width="25%"></td>
