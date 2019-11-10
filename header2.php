@@ -1,0 +1,1 @@
+<img src="img/life-14.jpg" height="500"></img>

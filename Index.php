@@ -5,21 +5,21 @@
 <meta charset="utf-8">
 <title>Index</title>
 </head>
-<body>
-	<table width="90%" bgcolor="#F3CA81" align="center">
+<body bgcolor="#F2F2F2">
+	<table width="90%" bgcolor="#F2F2F2" align="center">
 	<tr>
     	<td height="100" align="center">
     	<? include("header.php"); ?>
         </td>
     </tr>
     <tr>
-		<td height="30"><marquee>Information Technology KMITL</marquee>
+		<td height="30" bgcolor="#B3D1F0"><marquee>Information Technology KMITL</marquee>
 		</td>
 	</tr>
 	<tr>
 		<td height="150" align="center" bgcolor="#E9DDC0">
-        
-		</td>
+        <? include("header2.php"); ?>
+	  </td>
 	</tr>
 	<tr>
 		<td height="50"><ul>
