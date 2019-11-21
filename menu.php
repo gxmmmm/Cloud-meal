@@ -20,7 +20,7 @@
                         </div>
                         <div class="col-xl-4 col-md-4 d-none d-md-block">
                             <div class="login_resiter">
-                                <p><a href="#"><i class="flaticon-user"></i>login</a> | <a href="#">Resister</a></p>
+                                <p><a href="login.php"><i class="flaticon-user"></i>login</a> | <a href="#">Resister</a></p>
                             </div>
                         </div>
                     </div>
