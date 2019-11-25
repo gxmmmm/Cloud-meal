@@ -39,14 +39,14 @@
       <tr >
         <th colspan="2"><h1>Login</h1><br></th>
       </tr>
-      <tr>
+      <tr><form action="regis.php" method="post">
         <td><input type="text" required style="width:70%" placeholder="Username"></input><br><br></td>
       </tr>
       <tr>
         <td><input type="password" required style="width:70%" placeholder="Password "></input><br><br></td>
       </tr>
       <tr>
-        <td height="35" colspan="2" align="center" valign="bottom"><a href="#" class="genric-btn success-border circle arrow">Login<span class="lnr lnr-arrow-right"></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="login.php" class="genric-btn danger-border circle arrow">Cancle<span class="lnr lnr-arrow-right"></span></a></td>
+        <td height="35" colspan="2" align="center" valign="bottom"><a href="#" ><button type="submit" class="genric-btn success-border circle arrow">Login</button><span class="lnr lnr-arrow-right"></span></a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php"><button type="submit" class="genric-btn danger-border circle arrow">Cancel</button><span class="lnr lnr-arrow-right"></span></a></td>
       </tr>
 </table><br><br><br><br>
         </div>

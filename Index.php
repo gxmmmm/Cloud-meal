@@ -28,7 +28,7 @@
 
 <body>
     <header>
-		<? include("menu.php")?>
+      <? include("menu.php")?>
     </header>
     <!-- header-end -->
 
@@ -103,7 +103,7 @@
                                 <div class="blog_meta">
                                     <h3><a href="#">
                                             Food1
-                                        </a></h3>
+                                  </a></h3>
                                 </div>
                             </div>
                         </div>
@@ -117,7 +117,7 @@
                                 <div class="blog_meta">
                                     <h3><a href="#">
                                             Food2
-                                        </a></h3>
+                                  </a></h3>
                                 </div>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                                 <div class="blog_meta">
                                     <h3><a href="#">
                                             Food3
-                                        </a></h3>
+                                  </a></h3>
                                 </div>
                             </div>
                         </div>
@@ -145,7 +145,7 @@
                                 <div class="blog_meta">
                                     <h3><a href="#">
                                             Food4
-                                        </a></h3>
+                                  </a></h3>
                                 </div>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                                 <div class="blog_meta">
                                     <h3><a href="#">
                                             Food5
-                                        </a></h3>
+                                  </a></h3>
                                 </div>
                             </div>
                         </div>
@@ -173,7 +173,7 @@
                                 <div class="blog_meta">
                                     <h3><a href="#">
                                             Food6
-                                        </a></h3>
+                                  </a></h3>
                                 </div>
                             </div>
                         </div>

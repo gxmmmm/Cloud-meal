@@ -20,7 +20,10 @@
                         </div>
                         <div class="col-xl-4 col-md-4 d-none d-md-block">
                             <div class="login_resiter">
-                                <p><a href="login.php"><i class="flaticon-user"></i>login</a> | <a href="#">Resister</a></p>
+                                <p><a href="logout.php" class="genric-btn danger-border circle"><i class="flaticon-user"></i>logout</a></p>
+                            </div>
+                            <div class="login_resiter" style="position:absolute">
+                            	<p style="color:#06F;">asdasd</p>
                             </div>
                         </div>
                     </div>
