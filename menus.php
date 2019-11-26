@@ -36,13 +36,18 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
 	<ul id="navigation">
-		<li><a class="active" href="index.php">Home</a></li>
+		<li><a class="active" href="indexs.php">Home</a></li>
 		<li><a href="category.php">catagory</a></li>
-		<li><a href="about.php">About</a></li>
-		<li><a href="#">pages <i class="ti-angle-down"></i></a>
+		<li><a href="#">Foods <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
-				<li><a href="#">aaaaaaaa</a></li>
-				<li><a href="#">bbbbbbbb</a></li>
+				<li><a href="rez1.php">ร้านลุงประย้วย</a></li>
+				<li><a href="#">ร้านลุงประวี้ว</a></li>
+			</ul>
+		</li>
+        <li><a href="#">Beverage <i class="ti-angle-down"></i></a>
+			<ul class="submenu">
+				<li><a href="#">ร้าน</a></li>
+				<li><a href="#">ร้าน</a></li>
 			</ul>
 		</li>
 		<li><a href="contact.php">Contact</a></li>

@@ -36,12 +36,6 @@
 		<li><a class="active" href="index.php">Home</a></li>
 		<li><a href="category.php">Menu Preview</a></li>
 		<li><a href="about.php">About</a></li>
-		<li><a href="#">pages <i class="ti-angle-down"></i></a>
-			<ul class="submenu">
-				<li><a href="#">1. ลุงประยู้่ด</a></li>
-				<li><a href="#">2. ลุงประวี้ด</a></li>
-			</ul>
-		</li>
 		<li><a href="contact.php">Contact</a></li>
 		</ul>
 </nav>
