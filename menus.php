@@ -20,7 +20,7 @@
                         </div>
                         <div class="col-xl-4 col-md-4 d-none d-md-block">
                             <div class="login_resiter">
-                                <p><a href="logout.php" class="genric-btn danger-border circle"><i class="flaticon-user"></i>logout</a></p>
+                                <p><a onclick="myFunction()" href="logout.php" class="genric-btn danger-border circle"><i class="flaticon-user"></i>logout</a></p>
                             </div>
                             <div class="login_resiter" style="position:absolute">
                             	<p style="color:#06F;">asdasd</p>
@@ -36,7 +36,7 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
 	<ul id="navigation">
-		<li><a class="active" href="indexs.php">Home</a></li>
+		<li><a href="indexs.php">Home</a></li>
 		<li><a href="category.php">catagory</a></li>
 		<li><a href="#">Foods <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
@@ -84,3 +84,8 @@
                 </div>
             </div>
         </div>
+<script>
+function myFunction() {
+  alert("Enjoy your meal");
+}
+</script>

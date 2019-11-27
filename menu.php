@@ -20,7 +20,7 @@
                         </div>
                         <div class="col-xl-4 col-md-4 d-none d-md-block">
                             <div class="login_resiter">
-                                <p><a href="login.php"><i class="flaticon-user"></i>login</a> | <a href="#">Resister</a></p>
+                                <p><a href="login.php"><i class="flaticon-user"></i>login</a> | <a href="" onclick="asd()">Resister</a></p>
                             </div>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
 	<ul id="navigation">
-		<li><a class="active" href="index.php">Home</a></li>
+		<li><a href="index.php">Home</a></li>
 		<li><a href="category.php">Menu Preview</a></li>
 		<li><a href="about.php">About</a></li>
 		<li><a href="contact.php">Contact</a></li>
@@ -62,3 +62,8 @@
                 </div>
             </div>
         </div>
+        <script>
+        function asd() {
+  alert("Please contact the admin!");
+}
+</script>
