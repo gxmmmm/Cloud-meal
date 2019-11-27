@@ -41,13 +41,21 @@
 		<li><a href="#">Foods <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
 				<li><a href="rez1.php">ร้านลุงประย้วย</a></li>
-				<li><a href="#">ร้านลุงประวี้ว</a></li>
+				<li><a href="rez2.php">ร้าน</a></li>
+                <li><a href="rez3.php">ร้าน</a></li>
+                <li><a href="rez4.php">ร้าน</a></li>
+                <li><a href="rez5.php">ร้าน</a></li>
+                <li><a href="rez6.php">ร้าน</a></li>
+                <li><a href="rez7.php">ร้าน</a></li>
+                <li><a href="rez8.php">ร้าน</a></li>
+                <li><a href="rez9.php">ร้าน</a></li>
+                <li><a href="rez10.php">ร้าน</a></li>
 			</ul>
 		</li>
         <li><a href="#">Beverage <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
-				<li><a href="#">ร้าน</a></li>
-				<li><a href="#">ร้าน</a></li>
+				<li><a href="rez11">ร้าน</a></li>
+				<li><a href="rez12">ร้าน</a></li>
 			</ul>
 		</li>
 		<li><a href="contact.php">Contact</a></li>
