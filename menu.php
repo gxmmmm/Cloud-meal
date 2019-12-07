@@ -20,8 +20,9 @@
                         </div>
                         <div class="col-xl-4 col-md-4 d-none d-md-block">
                             <div class="login_resiter">
-                                <p><a href="login.php"><i class="flaticon-user"></i>login</a> | <a href="" onclick="asd()">Resister</a></p>
+                                <p><a href="logins.php"><i class="flaticon-user"></i>Chief login</a> | <a href="login.php"><i class="flaticon-user"></i>User login</a>
                             </div>
+                            <marquee><a href="" onclick="asd()" style="color:#09F;">Resister</a></marquee>
                         </div>
                     </div>
                 </div>

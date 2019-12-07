@@ -39,7 +39,7 @@
       <tr >
         <th colspan="2"><h1>Login</h1><br></th>
       </tr>
-      <tr><form action="regis.php" method="post">
+      <tr><form action="regiss.php" method="post">
         <td><input name="user" type="text" required style="width:70%" placeholder="Username"></input><br><br></td>
       </tr>
       <tr>

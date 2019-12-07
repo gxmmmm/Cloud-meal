@@ -1,3 +1,6 @@
+<?
+	session_start();
+?>
         <div class="header-area ">
             <div class="header_top">
                 <div class="container">
@@ -20,10 +23,10 @@
                         </div>
                         <div class="col-xl-4 col-md-4 d-none d-md-block">
                             <div class="login_resiter">
-                                <p><a href="logout.php" class="genric-btn danger-border circle"><i class="flaticon-user"></i>logout</a></p>
+                                <p><a onclick="function logout(frm)" href="logout.php"  class="genric-btn danger-border circle"><i class="flaticon-user"></i>logout</a></p>
                             </div>
-                            <div class="login_resiter" style="position:absolute">
-                            	<p style="color:#06F;">asdasd</p>
+                            <div class="login_resiter" ">
+                            	<marquee style="color:#09F;"><? echo "ยินดีต้อนรับ ",$_SESSION["Name"]; ?></marquee>
                             </div>
                         </div>
                     </div>
@@ -65,3 +68,13 @@
                 </div>
             </div>
         </div>
+<script>
+
+function logout(frm)
+	{
+			if(confirm("คุณต้องการออกจากระบบหรือไม่")){
+			frm.action = "logout.php";
+			frm.submit();
+			}
+	}
+</script>

@@ -3,7 +3,7 @@
 	$use_log = $_POST["user"];
 	$pass_log = $_POST["pass"];
 	session_start();
-	$sql = "SELECT * FROM `id_student` WHERE `Username` = '".$use_log."'";
+	$sql = "SELECT * FROM `id_chief` WHERE `Username` = '".$use_log."'";
 	$sql .= " AND `Password` = '".$pass_log."'";
 	$checksql = mysql_query($sql) or die();
 	$showsql = mysql_fetch_array($checksql);
@@ -13,14 +13,14 @@
 		$_SESSION["Name"] = $showsql["Name"];
 ?> 
 	<script>
-		window.location = "indexs.php";
+		window.location = "indexss.php";
 	</script>
     <? }else if($use_log == 'admin' && $pass_log == 'admin'){ 
 		$_SESSION["ID"] = "admin";
 		$_SESSION["Name"] = "Admin";
 ?>
 	<script>
-		window.location = "indexs.php";
+		window.location = "indexss.php";
 	</script>
 	<? }else{
 ?>  <script>
