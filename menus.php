@@ -20,7 +20,7 @@
                         </div>
                         <div class="col-xl-4 col-md-4 d-none d-md-block">
                             <div class="login_resiter">
-                                <p><a onclick="myFunction()" href="logout.php" class="genric-btn danger-border circle"><i class="flaticon-user"></i>logout</a></p>
+                                <p><a onclick="myFunction()" href="javascript:logout(document.search);" class="genric-btn danger-border circle"><i class="flaticon-user"></i>logout</a></p>
                             </div>
                             <div class="login_resiter" style="position:absolute">
                             	<p style="color:#06F;">asdasd</p>
@@ -88,4 +88,12 @@
 function myFunction() {
   alert("Enjoy your meal");
 }
+
+function logout(frm)
+	{
+			if(confirm("คุณต้องการออกจากระบบหรือไม่")){
+			frm.action = "logout.php";
+			frm.submit();
+			}
+	}
 </script>
