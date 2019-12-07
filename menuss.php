@@ -36,10 +36,10 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
 	<ul id="navigation">
-		<li><a href="indexs.php">Home</a></li>
-		<li><a href="category.php">Recipe</a></li>
-        <li><a href="category.php">Order List</a></li>
-		<li><a href="contact.php">Contact</a></li>
+		<li><a href="indexss.php">Home</a></li>
+		<li><a href="recipe.php">Recipe</a></li>
+        <li><a href="order.php">Order List</a></li>
+		<li><a href="contactss.php">Contact</a></li>
 		</ul>
 </nav>
                             </div>

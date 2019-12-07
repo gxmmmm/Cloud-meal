@@ -37,7 +37,7 @@
                                 <nav>
 	<ul id="navigation">
 		<li><a href="indexs.php">Home</a></li>
-		<li><a href="category.php">catagory</a></li>
+		<li><a href="categorys.php">catagory</a></li>
 		<li><a href="#">Foods <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
 				<li><a href="rez1.php">ร้านลุงประย้วย</a></li>
@@ -58,7 +58,7 @@
 				<li><a href="rez12">ร้าน</a></li>
 			</ul>
 		</li>
-		<li><a href="contact.php">Contact</a></li>
+		<li><a href="contacts.php">Contact</a></li>
 		</ul>
 </nav>
                             </div>
