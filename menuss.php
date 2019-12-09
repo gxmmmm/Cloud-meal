@@ -17,7 +17,7 @@
                         <div class="col-xl-4 col-md-4">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="img/logos.png">
+                                    <img src="img/cmm.png" width="390" height="113">
                                 </a>
                             </div>
                         </div>
