@@ -98,118 +98,12 @@
                                 <h4>ร้านพี่ฝน</h4>
                             </div>
                         </div>
-<<<<<<< HEAD
                     </div>
-=======
-
->>>>>>> ad036c7214597ef7c38a704e314fded7592f57e2
                 </div>
             </div>
         </div>
     </div>
     <!-- photography_slider_area_end -->
-
-    <!-- most_recent_blog_start -->
-    <div class="most_recent_blog">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title mb-33">
-                        <h3>Food Picture</h3>
-                    </div>
-                </div>
-                <div class="col-xl-12 col-md-12">
-                    <div class="row">
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        <img src="img/as1.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food1
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        <img src="img/as2.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food2
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        <img src="img/as3.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food3
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        <img src="img/as4.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food4
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        <img src="img/as5.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food5
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food6
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- most_recent_blog_end -->
 
     <!-- instagram_media_area_start -->
     <div class="instagram_media_area">
