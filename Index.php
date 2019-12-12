@@ -38,43 +38,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="photoslider_active owl-carousel">
-                     	<div class="single_photography">
-                            <img src="img/a7.jpg" alt="">
-                            <div class="photo_title">
-                                <h4>เมนูเด็ด</h4>
-                            </div>
-                        </div>
-                        <div class="single_photography">
-                            <img src="img/a8.jpg" alt="">
-                            <div class="photo_title">
-                                <h4>เมนูแนะนำ</h4>
-                            </div>
-                        </div>
-                        <div class="single_photography">
-                            <img src="img/a7.jpg" alt="">
-                            
-                            <div class="photo_title">
-                                <h4>เมนูขายดี</h4>
-                            </div>
-                        </div>
-                        <div class="single_photography">
-                            <img src="img/a8.jpg" alt="">
-                            <div class="photo_title">
-                                <h4>เมนูพิเศษ</h4>
-                            </div>
-                        </div>
-                        <div class="single_photography">
-                            <img src="img/a7.jpg" alt="">
-                            <div class="photo_title">
-                                <h4>เมนูดั้งเดิม</h4>
-                            </div>
-                        </div>
-                        <div class="single_photography">
-                            <img src="img/a8.jpg" alt="">
-                            <div class="photo_title">
-                                <h4>เมนูประจำ</h4>
-                            </div>
-                        </div>  
+       
                     </div>
                 </div>
             </div>
