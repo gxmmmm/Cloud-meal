@@ -38,7 +38,67 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="photoslider_active owl-carousel">
-                       
+                        <div class="single_photography">
+                            <img src="img/ร้าน13.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านจิบกาแฟสด</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน19.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านลุงชาติ</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน23.jpg" alt="">
+                            
+                            <div class="photo_title">
+                                <h4>ร้านอำภารัตน์</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน6.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านป้านกเล็ก</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน3.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านป้าเล็ก</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน1.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านพี่ช้าง</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน18.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านน้องพลอย</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน12.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านก๋วยเตี๋ยว</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน22.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้าน๙โภชนา</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน16.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านพี่ฝน</h4>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
