@@ -42,7 +42,7 @@
        
        <div class="breadcam_area bradcam_bg overlay2">
             <div class="bradcam_text">
-                <h3>LUNG ASD</h3>
+                <h3>ร้านลุงชาติ</h3>
             </div>
         </div>
         <!-- breadcam_area_end -->
@@ -86,8 +86,8 @@
                     <div class="col-lg-3 offset-lg-1" style="border:solid;"><br>
                     	<div class="media contact-info">
                     		<div class="media-body">
-                            	<img src="img/kuy.jpg" class="img-fluid rounded-circle">
-                                <h1 align="center">ร้านลุงเวร</h1>
+                            	<img src="img/ลุงชาติ.jpg" class="img-fluid rounded-circle">
+                                <h1 align="center">ร้านลุงชาติ</h1>
                             </div>
                         </div>
                         <div class="media contact-info">
