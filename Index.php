@@ -38,7 +38,6 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="photoslider_active owl-carousel">
-<<<<<<< HEAD
                         <div class="single_photography">
                             <img src="img/ร้าน13.jpg" alt="">
                             <div class="photo_title">
@@ -100,9 +99,6 @@
                                 <h4>ร้านพี่ฝน</h4>
                             </div>
                         </div>
-=======
-       
->>>>>>> 0b79eaed2ff708d135d9d35e4d8a14fd3d41a893
                     </div>
                 </div>
             </div>
