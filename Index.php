@@ -39,61 +39,61 @@
                 <div class="col-xl-12">
                     <div class="photoslider_active owl-carousel">
                         <div class="single_photography">
-                            <img src="img/ร้าน13.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
+                            <img src="img/จิบกาแฟสด.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านจิบกาแฟสด</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน19.jpg" alt="">
+                            <img src="img/ลุงชาติ.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านลุงชาติ</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน23.jpg" alt="">
+                            <img src="img/อำภารัตน์.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านอำภารัตน์</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน6.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">>
+                            <img src="img/ป้านกเล็ก.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านป้านกเล็ก</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน3.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">>
+                            <img src="img/ป้าเล็ก.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านป้าเล็ก</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน1.jpg" alt=""style="transform:rotate(90deg)  scale(1.95,1.4);">
+                            <img src="img/พี่ช้าง.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านพี่ช้าง</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน18.jpg" alt="">
+                            <img src="img/น้องพลอย.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านน้องพลอย</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน12.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
+                            <img src="img/ก๋วยเตี๋ยว.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านก๋วยเตี๋ยว</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน22.jpg" alt="">
+                            <img src="img/เก้าโภชนา.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้าน๙โภชนา</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน16.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
+                            <img src="img/ร้านพี่ฝน.jpg" alt="">
                             <div class="photo_title">
                                 <h4>ร้านพี่ฝน</h4>
                             </div>
