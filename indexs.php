@@ -36,47 +36,70 @@
     </header>
     <!-- header-end -->
 
-    <!-- photography_slider_area_start -->
+        <!-- photography_slider_area_start -->
     <div class="photography_slider_area bor">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="photoslider_active owl-carousel">
                         <div class="single_photography">
-                            <img src="img/a7.jpg" alt="">
+                            <img src="img/ร้าน13.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
                             <div class="photo_title">
-                                <h4>เมนูเด็ด</h4>
+                                <h4>ร้านจิบกาแฟสด</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/a8.jpg" alt="">
+                            <img src="img/ร้าน19.jpg" alt="">
                             <div class="photo_title">
-                                <h4>เมนูแนะนำ</h4>
+                                <h4>ร้านลุงชาติ</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/a7.jpg" alt="">
-                            
+                            <img src="img/ร้าน23.jpg" alt="">
                             <div class="photo_title">
-                                <h4>เมนูขายดี</h4>
+                                <h4>ร้านอำภารัตน์</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/a8.jpg" alt="">
+                            <img src="img/ร้าน6.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">>
                             <div class="photo_title">
-                                <h4>เมนูพิเศษ</h4>
+                                <h4>ร้านป้านกเล็ก</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/a7.jpg" alt="">
+                            <img src="img/ร้าน3.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">>
                             <div class="photo_title">
-                                <h4>เมนูดั้งเดิม</h4>
+                                <h4>ร้านป้าเล็ก</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/a8.jpg" alt="">
+                            <img src="img/ร้าน1.jpg" alt=""style="transform:rotate(90deg)  scale(1.95,1.4);">
                             <div class="photo_title">
-                                <h4>เมนูประจำ</h4>
+                                <h4>ร้านพี่ช้าง</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน18.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านน้องพลอย</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน12.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
+                            <div class="photo_title">
+                                <h4>ร้านก๋วยเตี๋ยว</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน22.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้าน๙โภชนา</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/ร้าน16.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
+                            <div class="photo_title">
+                                <h4>ร้านพี่ฝน</h4>
                             </div>
                         </div>
                     </div>
