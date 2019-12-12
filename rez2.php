@@ -86,8 +86,13 @@
                     <div class="col-lg-3 offset-lg-1" style="border:solid;"><br>
                     	<div class="media contact-info">
                     		<div class="media-body">
+<<<<<<< HEAD
+                            <img src="img/อำภารัตน์.jpg" class="img-fluid rounded-circle">
+                    		  <h1 align="center">ร้านอำภารัตน์</h1>
+=======
                             	<img src="img/อำภารัตน์.jpg" class="img-fluid rounded-circle">
                                 <h1 align="center">ร้านอำภารัตน์</h1>
+>>>>>>> 06e2534896f1710765353a848ec2bb0e69a00916
                             </div>
                         </div>
                         <div class="media contact-info">
