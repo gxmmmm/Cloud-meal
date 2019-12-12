@@ -56,9 +56,9 @@
 			<ul class="submenu">
                 <li><a href="rez8.php">ร้านจิบกาแฟสด</a></li>
                 <li><a href="rez9.php">ร้านน้องพลอย</a></li>
-				<li><a href="rez10">ร้านพี่ฝน</a></li>
+				<li><a href="rez10.php">ร้านพี่ฝน</a></li>
                 <li><a href="rez11.php">ร้านDouble Coffee</a></li>
-				<li><a href="rez12">ร้านBrown Beary Cafe</a></li>
+				<li><a href="rez12.php">ร้านBrown Beary Cafe</a></li>
 			</ul>
 		</li>
 		<li><a href="contacts.php">Contact</a></li>
