@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html class="no-js" lang="zxx">
 
 <head>
@@ -110,11 +110,11 @@
                                 <h4>ร้านD DOUBLE coffee</h4>
                             </div>
                         </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- photography_slider_area_end -->
 
@@ -131,22 +131,22 @@
             <div class="row">
                 <div class="col-xl-3 col-md-3">
                     <div class="single_instragram">
-                        <img src="img/อาหารสวยๆยั่วๆ1.jpg" alt="">
+                        <img src="img/o1.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-3">
                     <div class="single_instragram">
-                        <img src="img/อาหารสวยๆยั่วๆ2.jpg" alt="">
+                        <img src="img/o2.png" alt="">
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-3">
                     <div class="single_instragram">
-                        <img src="img/อาหารสวยๆยั่วๆ3.jpg" alt="">
+                        <img src="img/b4.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-3">
                     <div class="single_instragram">
-                        <img src="img/อาหารสวยๆยั่วๆ4.jpg" alt="">
+                        <img src="img/o3.jpg" alt="">
                     </div>
                 </div>
             </div>
