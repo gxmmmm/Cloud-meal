@@ -98,6 +98,19 @@
                                 <h4>ร้านพี่ฝน</h4>
                             </div>
                         </div>
+                        <div class="single_photography">
+                            <img src="img/หมี.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านBrown Beary</h4>
+                            </div>
+                        </div>
+                        <div class="single_photography">
+                            <img src="img/coffee.jpg" alt="">
+                            <div class="photo_title">
+                                <h4>ร้านD DOUBLE coffee</h4>
+                            </div>
+                        </div>
+                        </div>
                     </div>
                 </div>
             </div>
