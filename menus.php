@@ -43,22 +43,22 @@
 		<li><a href="categorys.php">catagory</a></li>
 		<li><a href="#">Foods <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
-				<li><a href="rez1.php">ร้านลุงประย้วย</a></li>
-				<li><a href="rez2.php">ร้านลุงชาติ</a></li>
-                <li><a href="rez3.php">ร้านอำภารัตน์</a></li>
-                <li><a href="rez4.php">ร้านป้านกเล็ก</a></li>
-                <li><a href="rez5.php">ร้านป้าเล็ก</a></li>
-                <li><a href="rez6.php">ร้านพี่ช้าง</a></li>
-                <li><a href="rez7.php">ร้านก๋วยเตี๋ยว</a></li>
-                <li><a href="rez8.php">ร้าน๙โภชนา</a></li>
+				<li><a href="rez1.php">ร้านลุงชาติ</a></li>
+                <li><a href="rez2.php">ร้านอำภารัตน์</a></li>
+                <li><a href="rez3.php">ร้านป้านกเล็ก</a></li>
+                <li><a href="rez4.php">ร้านป้าเล็ก</a></li>
+                <li><a href="rez5.php">ร้านพี่ช้าง</a></li>
+                <li><a href="rez6.php">ร้านก๋วยเตี๋ยว</a></li>
+                <li><a href="rez7.php">ร้าน๙โภชนา</a></li>
 			</ul>
 		</li>
         <li><a href="#">Beverage <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
-                <li><a href="rez9.php">ร้านจิบกาแฟสด</a></li>
-                <li><a href="rez10.php">ร้านน้องพลอย</a></li>
-				<li><a href="rez11">ร้านพี่ฝน</a></li>
-				<li><a href="rez12">ร้าน</a></li>
+                <li><a href="rez8.php">ร้านจิบกาแฟสด</a></li>
+                <li><a href="rez9.php">ร้านน้องพลอย</a></li>
+				<li><a href="rez10">ร้านพี่ฝน</a></li>
+                <li><a href="rez11.php">ร้านDouble Coffee</a></li>
+				<li><a href="rez12">ร้านBrown Beary Cafe</a></li>
 			</ul>
 		</li>
 		<li><a href="contacts.php">Contact</a></li>
