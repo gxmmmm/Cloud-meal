@@ -39,7 +39,7 @@
                 <div class="col-xl-12">
                     <div class="photoslider_active owl-carousel">
                         <div class="single_photography">
-                            <img src="img/ร้าน13.jpg" alt="">
+                            <img src="img/ร้าน13.jpg"  rotate(92deg) scale(1) skew(1deg) translate(0px)alt="">
                             <div class="photo_title">
                                 <h4>ร้านจิบกาแฟสด</h4>
                             </div>
