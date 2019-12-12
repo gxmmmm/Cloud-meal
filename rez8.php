@@ -74,7 +74,7 @@
                             <div class="blog_thumb">
                                 <img src="img/as3.jpg" class="img-fluid rounded-circle">
                             </div>
-                            <form action="rez8s.php" method="post" name="1.s">
+                            
                             <div class="blog_meta">
                                 <h3>Food3</h3>
                                 <div align="right">
@@ -93,6 +93,7 @@
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
+                            <form action="rez1s.php" method="post" name="8s">
                             <div class="media-body">
                                 <h3>ชื่อผู้สั่ง</h3>
                                 <p><input name="order1" required placeholder="ใส่ชื่อผู้ที่สั่งอาหาร" style="width:100%;"></input></p>

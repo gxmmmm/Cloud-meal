@@ -25,13 +25,317 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
+<?
+	include("connect.php");
+	session_start();
+	
+?>
+<script>
 
+function deletes(frm,id)
+	{
+	if (confirm("asd")) {
+    frm.action = "rez8ss.php?id="+id;
+	frm.submit();
+  }
+			
+	}
+</script>
+<style>
+.t1{
+	width:100%;
+	height:70px;
+	
+}
+th{
+	height:70px;
+	font-size:24px;
+}
+tr{
+	height:70px;
+	font-size:18px;
+}
+</style>
 <body>
     <header>
 		<? include("menuss.php")?>
     </header>
     <!-- header-end -->
+<div class="container" style="padding-top:50px;">
+            <div class="row">
+            	<div class="col-xl-1">
+                </div>
+                <div class="col-xl-10">
 
+
+                	<table class="t1">
+                    	<th>
+                        	<td align="center"><h2>ลำดับ</h2></td>
+                        	<td><h2>ชื่อผู้สั่ง</h2></td>
+                            <td><h2>ชื่อเมนู</h2></td>
+                            <td><h2>ประเภท</h2></td>
+                            <td><h2>เพิ่มเติม</h2></td>
+                            <td align="center"><h2>Check Out</h2></td>
+                        </th>
+<? 
+	if($_SESSION["ID"]=="c001" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `1s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez1ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+    <? } ?>
+<? 
+	if($_SESSION["ID"]=="c002" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `2s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez2ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c003" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `3s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez3ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c004" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `4s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez4ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c005" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `5s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez5ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c006" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `6s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez6ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c007" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `7s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez7ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c008" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `8s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez8ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c009" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `9s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez9ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c010" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `10s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez10ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c011" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `11s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez11ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+<? 
+	if($_SESSION["ID"]=="c012" or $_SESSION["ID"]=="admin"){
+?>
+<?
+	$i = 1;
+	$sql1s = "SELECT * FROM `12s` WHERE 1";
+	$checksql1s = mysql_query($sql1s) or die();
+	$delete = $_GET["delete"];
+	while($row1s = mysql_fetch_array($checksql1s)){
+?>
+                        <tr>
+                        	<td></td>
+                        	<td align="center"><?=$i?></td>
+							<td><?=$row1s["Name"]?></td>
+                            <td><?=$row1s["Menu"]?></td>
+                            <td><?=$row1s["Type"]?></td>
+                            <td><?=$row1s["ETC"]?></td>
+                            <td align="center"><a href="rez12ss.php?id=<?=$row1s["Name"]?>"><button class="genric-btn info-border circle">Done</button></a></td>
+                        </tr>
+                        <? $i++; } ?>
+<? } ?>
+                   </table>
+
+                </div>
+                <div class="col-xl-1">
+                </div>
+            </div>
+</div>
 
 
     <!-- footer_start -->

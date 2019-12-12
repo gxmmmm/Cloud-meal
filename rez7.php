@@ -92,26 +92,38 @@
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
+                            <form action="rez9s.php" method="post" name="1.s">
                             <div class="media-body">
-                                <h3>Information Technology.KMITL</h3>
-                                <p>Ladkrabang, Bangkok 60140</p>
+                                <h3>ชื่อผู้สั่ง</h3>
+                                <p><input name="order1" required placeholder="ใส่ชื่อผู้ที่สั่งอาหาร" style="width:100%;"></input></p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>098xxxxxxx</h3>
-                                <p>Mon to Fri 9am to 6pm</p>
+                                <h3>ชื่อเมนู</h3>
+                                <p><input name="order2" required placeholder="ใส่ชื่ออาหาร" style="width:100%;"></input></p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>รับทำข้าวกล่อง</h3>
-                                <p>ส่งถึงบ้าน แต่ไม่ไปหรอก</p>
+                                <h3>ประเภท(ธรรมดา, พิเศษ)</h3>
+                                <p><input name="order3" placeholder="ใส่ๆมาเหอะ" style="width:100%;"></input></p>
                             </div>
                         </div>
+                        <div class="media contact-info">
+                            <span class="contact-info__icon"><i class="ti-email"></i></span>
+                            <div class="media-body">
+                                <h3>เพิ่มเติม</h3>
+                                <p><input name="order4" placeholder="ใส่อะไรเพิ่มป่าว" style="width:100%;"></input></p>
+                            </div>
+                        </div>
+                        <div class="media contact-info" align="right">
+                        <button class="genric-btn primary-border circle arrow" type="submit">ORDER</button>
+                        </div>
                     </div>
+                    </form>
                 </div>
             </div>
             </div>
