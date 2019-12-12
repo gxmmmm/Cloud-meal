@@ -39,7 +39,7 @@
                 <div class="col-xl-12">
                     <div class="photoslider_active owl-carousel">
                         <div class="single_photography">
-                            <img src="img/ร้าน13.jpg"  rotate(92deg) scale(1) skew(1deg) translate(0px)alt="">
+                            <img src="img/ร้าน13.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
                             <div class="photo_title">
                                 <h4>ร้านจิบกาแฟสด</h4>
                             </div>
@@ -52,25 +52,24 @@
                         </div>
                         <div class="single_photography">
                             <img src="img/ร้าน23.jpg" alt="">
-                            
                             <div class="photo_title">
                                 <h4>ร้านอำภารัตน์</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน6.jpg" alt="">
+                            <img src="img/ร้าน6.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">>
                             <div class="photo_title">
                                 <h4>ร้านป้านกเล็ก</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน3.jpg" alt="">
+                            <img src="img/ร้าน3.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">>
                             <div class="photo_title">
                                 <h4>ร้านป้าเล็ก</h4>
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน1.jpg" alt="">
+                            <img src="img/ร้าน1.jpg" alt=""style="transform:rotate(90deg)  scale(1.95,1.4);">
                             <div class="photo_title">
                                 <h4>ร้านพี่ช้าง</h4>
                             </div>
@@ -82,7 +81,7 @@
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน12.jpg" alt="">
+                            <img src="img/ร้าน12.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
                             <div class="photo_title">
                                 <h4>ร้านก๋วยเตี๋ยว</h4>
                             </div>
@@ -94,12 +93,16 @@
                             </div>
                         </div>
                         <div class="single_photography">
-                            <img src="img/ร้าน16.jpg" alt="">
+                            <img src="img/ร้าน16.jpg" alt="" style="transform:rotate(90deg)  scale(1.95,1.4);">
                             <div class="photo_title">
                                 <h4>ร้านพี่ฝน</h4>
                             </div>
                         </div>
+<<<<<<< HEAD
                     </div>
+=======
+
+>>>>>>> ad036c7214597ef7c38a704e314fded7592f57e2
                 </div>
             </div>
         </div>
@@ -191,7 +194,7 @@
                             <div class="single_blog">
                                 <div class="blog_thumb">
                                     <a href="#">
-                                        <img src="img/as6.jpg" alt="">
+                                        
                                     </a>
                                 </div>
                                 <div class="blog_meta">
