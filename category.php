@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title mb-33">
-                        <h3>Food Picture</h3>
+                        <h3>เมนูแนะนำ</h3>
                     </div>
                 </div>
                 <div class="col-xl-12 col-md-12">
@@ -51,12 +51,12 @@
                             <div class="single_blog">
                                 <div class="blog_thumb">
                                     <a href="#">
-                                        <img src="img/as1.jpg" alt="">
+                                        <img src="img/b4.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="blog_meta">
                                     <h3><a href="#">
-                                            Food1
+                                            ผัดไทยกุ้งสด ร้านลุงชาติ
                                   </a></h3>
                                 </div>
                             </div>
@@ -65,12 +65,12 @@
                             <div class="single_blog">
                                 <div class="blog_thumb">
                                     <a href="#">
-                                        <img src="img/as2.jpg" alt="">
+                                        <img src="img/b6.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="blog_meta">
                                     <h3><a href="#">
-                                            Food2
+                                            ก๋วยเตี๋ยวต้มยำหมูเด้ง ร้านก๋วยเตี๋ยว
                                   </a></h3>
                                 </div>
                             </div>
@@ -79,12 +79,12 @@
                             <div class="single_blog">
                                 <div class="blog_thumb">
                                     <a href="#">
-                                        <img src="img/as3.jpg" alt="">
+                                        <img src="img/r1.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="blog_meta">
                                     <h3><a href="#">
-                                            Food3
+                                            ผัดกะเพราเบคอน ร้านพี่ช้าง
                                   </a></h3>
                                 </div>
                             </div>
@@ -98,35 +98,7 @@
                                 </div>
                                 <div class="blog_meta">
                                     <h3><a href="#">
-                                            Food4
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        <img src="img/as5.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food5
-                                  </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-3">
-                            <div class="single_blog">
-                                <div class="blog_thumb">
-                                    <a href="#">
-                                        <img src="img/as6.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog_meta">
-                                    <h3><a href="#">
-                                            Food6
+                                            มาม่าผัดขี้เมาเบคอน ร้านพี่ช้าง
                                   </a></h3>
                                 </div>
                             </div>
