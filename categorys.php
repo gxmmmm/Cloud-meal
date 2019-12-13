@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html class="no-js" lang="zxx">
 
 <head>
@@ -55,9 +55,9 @@
                                     </a>
                                 </div>
                                 <div class="blog_meta">
-                                    <h3><a href="#">
+                                    <br><h5><a href="#">
                                             ผัดไทยกุ้งสด ร้านลุงชาติ
-                                  </a></h3>
+                                  </a></h5>
                                 </div>
                             </div>
                         </div>
@@ -69,9 +69,9 @@
                                     </a>
                                 </div>
                                 <div class="blog_meta">
-                                    <h3><a href="#">
+                                    <br><h5><a href="#">
                                             ก๋วยเตี๋ยวต้มยำหมูเด้ง ร้านก๋วยเตี๋ยว
-                                  </a></h3>
+                                  </a></h5>
                                 </div>
                             </div>
                         </div>
@@ -83,9 +83,9 @@
                                     </a>
                                 </div>
                                 <div class="blog_meta">
-                                    <h3><a href="#">
+                                    <br><h5><a href="#">
                                             ผัดกะเพราเบคอน ร้านพี่ช้าง
-                                  </a></h3>
+                                  </a></h5>
                                 </div>
                             </div>
                         </div>
@@ -93,13 +93,13 @@
                             <div class="single_blog">
                                 <div class="blog_thumb">
                                     <a href="#">
-                                        <img src="img/as4.jpg" alt="">
+                                        <img src="img/uu.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="blog_meta">
-                                    <h3><a href="#">
+                                    <br><h5><a href="#">
                                             มาม่าผัดขี้เมาเบคอน ร้านพี่ช้าง
-                                  </a></h3>
+                                  </a></h5>
                                 </div>
                             </div>
                         </div>
