@@ -92,7 +92,7 @@
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
-                            <form action="rez2s.php" method="post" name="2s">
+                            <form action="rez3s.php" method="post" name="2s">
                             <div class="media-body">
                                 <h3>ชื่อผู้สั่ง</h3>
                                 <p><input name="order1" required placeholder="ใส่ชื่อผู้ที่สั่งอาหาร" style="width:100%;"></input></p>

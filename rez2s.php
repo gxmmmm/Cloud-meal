@@ -9,5 +9,5 @@
 	mysql_query($sql) or die();
 ?>
 <script>
-	window.location = "rez2.php";
+	window.location = "rez1.php";
 </script>

@@ -9,5 +9,6 @@
 	mysql_query($sql) or die();
 ?>
 <script>
-	window.location = "rez1.php";
+	window.location = "rez8.php";
+	alert("สั่งอาหารเสร็จแล้ว กรุณานั่งรอไป จนกว่าจะได้กินนะจ๊ะ");
 </script>
