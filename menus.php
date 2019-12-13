@@ -40,7 +40,7 @@
                                 <nav>
 	<ul id="navigation">
 		<li><a href="indexs.php">Home</a></li>
-		<li><a href="categorys.php">catagory</a></li>
+		<li><a href="categorys.php">Menu Preview</a></li>
 		<li><a href="#">Foods <i class="ti-angle-down"></i></a>
 			<ul class="submenu">
 				<li><a href="rez1.php">ร้านลุงชาติ</a></li>
