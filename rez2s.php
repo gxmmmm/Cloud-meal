@@ -10,4 +10,5 @@
 ?>
 <script>
 	window.location = "rez1.php";
+	alert("สั่งอาหารเสร็จแล้ว กรุณานั่งรอไป จนกว่าจะได้กินนะจ๊ะ");
 </script>
