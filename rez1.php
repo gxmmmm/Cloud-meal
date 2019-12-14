@@ -111,10 +111,10 @@
                         <div class="col-xl-4 col-md-4 a">
                         	<br>
                             <div class="blog_thumb">
-                                <img src="img/b6.jpg" class="img-fluid rounded-circle">
+                                <img src="img/r1.jpg" class="img-fluid rounded-circle">
                             </div>
                             <div class="blog_meta">
-                                <h3>ก๋วยเตี๋ยวต้มยำ</h3>
+                                <h3>ผัดกระเพราเบค่อน</h3>
                                 <div align="right">
                                 
                                 </div>

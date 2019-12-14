@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Photomedia</title>
+    <title>cloud meal</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,15 +56,15 @@
                         <h2 class="contact-title">Just Click</h2><br>
                     </div>
                     <div class="col-lg-8"><div class="row">
-                        <div class="col-xl-4 col-md-4 a">
+                    <div class="col-xl-4 col-md-4 a">
                         	<br>
                             <div class="blog_thumb">
-                                <img src="img/as3.jpg" class="img-fluid rounded-circle">
+                                <img src="img/p5.jpg" class="img-fluid rounded-circle">
                             </div>
                             <div class="blog_meta">
-                                <h3>Food3</h3>
+                                <h3>มาม่าผัดขี้เมาเบค่อน</h3>
                                 <div align="right">
-                                <button class="genric-btn primary-border circle arrow">ORDER</button>
+                                
                                 </div>
                             </div>
                             <br>
@@ -72,12 +72,64 @@
                         <div class="col-xl-4 col-md-4 a">
                         	<br>
                             <div class="blog_thumb">
-                                <img src="img/as3.jpg" class="img-fluid rounded-circle">
+                                <img src="img/p3.jpg" class="img-fluid rounded-circle">
                             </div>
                             <div class="blog_meta">
-                                <h3>Food3</h3>
+                                <h3>ผัดกระเพราหมูสับ</h3>
                                 <div align="right">
-                                <button class="genric-btn primary-border circle arrow">ORDER</button>
+                                
+                                </div>
+                            </div>
+                            <br>
+                        </div>
+                        <div class="col-xl-4 col-md-4 a">
+                        	<br>
+                            <div class="blog_thumb">
+                                <img src="img/b6.jpg" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="blog_meta">
+                                <h3>ก๋วยเตี๋ยวต้มยำ</h3>
+                                <div align="right">
+                                
+                                </div>
+                            </div>
+                            <br>
+                        </div>
+                        <div class="col-xl-4 col-md-4 a">
+                        	<br>
+                            <div class="blog_thumb">
+                                <img src="img/p4.jpg" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="blog_meta">
+                                <h3>ผัดบล้อคโคลี่</h3>
+                                <div align="right">
+                                
+                                </div>
+                            </div>
+                            <br>
+                        </div>
+                        <div class="col-xl-4 col-md-4 a">
+                        	<br>
+                            <div class="blog_thumb">
+                                <img src="img/r1.jpg" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="blog_meta">
+                                <h3>ผัดกระเพราเบค่อน</h3>
+                                <div align="right">
+                                
+                                </div>
+                            </div>
+                            <br>
+                        </div>
+                        <div class="col-xl-4 col-md-4 a">
+                        	<br>
+                            <div class="blog_thumb">
+                                <img src="img/b4.jpg" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="blog_meta">
+                                <h3>ผัดไทยกุ้งสด</h3>
+                                <div align="right">
+
                                 </div>
                             </div>
                             <br>
